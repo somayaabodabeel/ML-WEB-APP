@@ -8,7 +8,7 @@ import numpy as np
 def main():
     html_temp = """
     <div style="background-color:lightblue;padding:16px">
-    <h2 style="color:black";text-align:center> Health Insurance Cost Prediction Using ML</h2>
+    <h2 style="color:black";text-align:center> Forcasting the future cost of Medical Insurance </h2>
     </div>
     
     """
