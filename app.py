@@ -1,5 +1,5 @@
 """
-@author: somaya abodabeel
+@author: Group Future Fintech
 """
 import streamlit as st
 import joblib
